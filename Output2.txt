@@ -1,0 +1,8 @@
+R1 = R
+R2 = G
+R3 = B
+R4 = Y
+R5 = B
+R6 = G
+R7 = R
+R8 = B
